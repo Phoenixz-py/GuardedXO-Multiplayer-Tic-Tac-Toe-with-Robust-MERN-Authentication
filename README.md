@@ -31,3 +31,7 @@ package.json will keep all dependencies as a register record that will show all 
 Now back-end part
 I created the architecture from scratch, and while practicing I experienced having a messy app.js (main file) so this time I should look for best practises I found that we can use folders like modules, routes, middleware and a db file that will keep database connection promise.
 I've added lots of comments in code that help to understand the code and problems I faced during /while making the project
+
+The major issue was Usually localhost and 127.0.0.1 are synonyms but  lately, they have changed the localhost to be an ipv6 address so unless your services are configured to understand ipv6 addresses they will not work 
+
+It almost made me give up but somehow after searching too much and finally discussing it with a senior developer I was able to solve it.
