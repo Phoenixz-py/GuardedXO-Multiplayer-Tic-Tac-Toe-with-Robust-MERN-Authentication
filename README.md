@@ -21,7 +21,7 @@ Since I have both server and client  I figured out to use "concurrently" npm and
 Now all that is left to do is "npm run both"
 And the live server is ready with the client and server running at 3000 and 5000 respectively
 
-A logical explanation of all your architectural choices in the project
+A logical explanation of all my architectural choices in the project
 I tried to keep the architecture of my code as clean and reusable as possible.
 For the front-end Part:
 Basically, I used the command "npx create-react-app TicTacToe" to make the directory setup. It setup React App basic structure of file in the directory with name TicTacToe
