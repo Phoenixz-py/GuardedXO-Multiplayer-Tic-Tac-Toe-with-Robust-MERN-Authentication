@@ -1,4 +1,4 @@
-# TicTacToe-Intern-Quest
+# TicTacToe
 A web game made with MERN
 
 Introduction:
